@@ -14,6 +14,8 @@ The following **required** functionality is completed:
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
 
+<div style="position: relative; padding-bottom: 64.89169675090253%; height: 0;"><iframe src="https://www.loom.com/embed/2d7eb10b49134434b7f04b94371f8bd9?sid=c31fd66d-6105-4122-a91c-228a7a7ca0ee" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## App Brainstorming (Step 4)
 - Day One
   Geo-location when viewing entry
